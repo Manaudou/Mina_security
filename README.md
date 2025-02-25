@@ -87,3 +87,4 @@ sudo cat /var/log/auth.log | grep 'Failed password'
 Более подробную информацию о командах см. На страницах руководства Fail2Ban
 sudo man fail2ban-client
 sudo man fail2ban-server
+
